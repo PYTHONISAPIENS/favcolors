@@ -1,16 +1,11 @@
-name="salem"
-lastname = "jose"
-fullname = (name + " "+ lastname)
-age = 2
-print(fullname)
-print(name + " " + lastname)
+acorde_deseado = input("POR FAVOR ELIJA DE LA SIGUIENTE LISTA DE EMOCIONES LA QUE DESEARÍA REPRESENTAR EN PINTURA, COMBINACIÓN DE VESTUARIO, ESCENA O IMPRESO: PASIÓN, CIENCIA, DEPORTE, CONFIANZA, DESCANSO, CALOR O ALEGRÍA")
+acorde_deseado = acorde_deseado.lower()
+acorde_deseado = acorde_deseado.upper()
 
-#format
-template = "hola, soy " + name + " y mi apellido es " + lastname + " y mi edad es ❤️  " + str(age) + " añitos"
-print("v1 "+template)
+lista_de_colores = ["AMARILLO","AZUL","ROJO","BLANCO","NEGRO","GRIS","PLATEADO","NARANJA","VERDE","MARRÓN"]
+porcentaje = 12.5
 
-template = "Hola, soy {} y mi apellido es {} y mi edad es 🌸 {} añitos".format(name, lastname,age)
-print("v2 "+ template)
 
-template=f"Hola, soy {name} y mi apellido es {lastname} y mi edad es 🎉 {age} añitos"
-print("v3 " + template)
+lista_de_acordes = [
+    lista_acorde_pasion = []
+]
