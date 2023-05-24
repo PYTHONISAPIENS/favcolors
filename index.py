@@ -32,5 +32,29 @@ acorde_pasion = [
   
 ]
 
+acorde_ciencia = [
+    {
+        'COLOR':"AZUL",
+        'PORCENTAJE':"1/4"
+                     
+    },
+    {
+        'COLOR':"BLANCO",
+        'PORCENTAJE':"1/4"        
+    },
+    {
+        'COLOR':"GRIS",
+        'PORCENTAJE':"1/4"
+                     
+    },
+    {
+        'COLOR':"PLATA",
+        'PORCENTAJE':"1/4"
+                     
+    },
+  
+]
+
+
 if acorde_deseado == "PASIÓN":
     print(acorde_pasion)
