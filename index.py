@@ -5,7 +5,7 @@ acorde_deseado = acorde_deseado.upper()
 print("La paleta propuesta para la emoción "+acorde_deseado + " es la siguiente")
 
 paletas = [
-    ["ROJO: 1/2","NARANJA: 1/4","VIOLETA: 1/8","AMARILLO: 1/8"], #PASIÓN
+    ["ROJO #134DFS: 1/2","NARANJA: 1/4","VIOLETA: 1/8","AMARILLO: 1/8"], #PASIÓN
     ["AZUL: 1/4", "BLANCO: 1/4", "GRIS: 1/4", "PLATEADO: 1/4"], #CIENCIA
     ["AZUL: 3/8", "BLANCO: 3/8", "VERDE: 1/8", "PLATEADO: 1/8"], #DEPORTE
     ["AZUL: 3/8", "VERDE: 3/8", "MARRÓN: 1/8","AMARILLO: 1/8"], #CONFIANZA
